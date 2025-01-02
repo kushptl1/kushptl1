@@ -8,7 +8,7 @@ _watching movies, enjoying life, learning new things..._
   - Web Design
   - Linux, Scripting (powershell)
 
-### :key:Certs
+### :key: Certs
 - Quantum Cryptography and the Future of Cybersecurity (LinkedIn)
 -  CompTIA Security+ (SY0-701)
 -   Microsoft Certified: Azure Fundamentals (AZ-900)
