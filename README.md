@@ -18,4 +18,4 @@ _watching movies, enjoying life, learning new things..._
 
 ### If you wanna reach out:
   - <a href="mailto:kushp1@umbc.edu">Send me an email </a> or
-  - Read my Blog [Blog](https://medium.com/@krp20502050).
+  - Read my [Blog](https://medium.com/@krp20502050).
