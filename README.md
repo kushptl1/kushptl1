@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**kushptl1/kushptl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_watching movies, enjoying life, learning new things..._
 
-Here are some ideas to get you started:
+### About me
+- Studying Cyber Security 
+- IT Application Access Control Security Specialist
+- Currently (self) studying:
+  - Web Design
+  - Linux, Scripting (powershell)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certs
+- Quantum Cryptography and the Future of Cybersecurity (LinkedIn)
+-  CompTIA Security+ (SY0-701)
+-   Microsoft Certified: Azure Fundamentals (AZ-900)
+-   Intro to Splunk & Mastercard Cybersecurity Virtual Experience Program on Forage
+
+#
+
+### If you wanna reach out:
+  - <a href="mailto:kushp1@umbc.edu">Send me an email </a> or
+  - Read my Blog [Blog](https://medium.com/@krp20502050).
